@@ -1,0 +1,3 @@
+[submodule "lib/crane_gps_watch"]
+	path = lib/crane_gps_watch
+	url = https://github.com/mru00/crane_gps_watch.git
